@@ -4,12 +4,12 @@ Sentiment Analysis of Yelp Review Dataset using Hugging Face pre-trained BERT wi
 ## Results
 
 ```python
-Review_text: i am angry but i love you
+Review_text: fish in the nearby restaurant is delicious
 Sentiment  : positive
 
 ```
 ```python
-Review_text: i love you but i am angry
+Review_text: i didn't like the cake
 Sentiment  : negative
 
 ```
